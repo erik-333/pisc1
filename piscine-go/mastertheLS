@@ -1,0 +1,3 @@
+#! bin/bash
+
+ls -mtF | tr -d "[:space:]"
